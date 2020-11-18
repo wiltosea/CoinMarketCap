@@ -1,6 +1,6 @@
 //API
 var apiKey = {
-    key: '341a6da9-d690-4ef3-8f9d-65f03ef36d37'
+    key: ''
 }
 
 // Buscando dados pela api com fetch
